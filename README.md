@@ -8,3 +8,10 @@
 Enter all answers at savethedate.foo.
 
 You must know where you've been to get where you're going.
+
+
+----- NOTES -----
+
+Intro: Find the website!
+http://imgur.com/sIoqXT8
+savethedate.foo
