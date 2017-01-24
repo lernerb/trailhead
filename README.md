@@ -62,6 +62,28 @@ https://www.youtube.com/watch?v=9N9K898TtWQ&feature=youtu.be&yt:cc=on
 
 latitude: MagicI.See_abeach, longitude: -yes._Iexploredaylight
 
+The number of characters in each word represents the coordinates, add back in the `,` `-` and `.`
+
+```
+Magic = 5
+I = 1
+.
+See = 3
+A = 1
+Beach = 5
+```
+
+and
+
+```
+-
+yes = 3
+.
+I = 1
+explore = 7
+daylight = 8
+```
+
 * Answer 2: `51.3015, -3.0178`
 
 ## Step 4: Radio
