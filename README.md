@@ -53,10 +53,27 @@ Z = 26
 1) Type in the coordinates in the js file in this repo `-28.092472, -52.419667`, and you get to a youtube video https://www.youtube.com/watch?v=9N9K898TtWQ&feature=youtu.be&yt:cc=off. Turn on closed captions.
 
 * Answer 1: `-28.092472, -52.419667`
+
+## Step 3: Youtube
+
+Visit this, google originally turned off closed captions.
+
+https://www.youtube.com/watch?v=9N9K898TtWQ&feature=youtu.be&yt:cc=on
+
+latitude: MagicI.See_abeach, longitude: -yes._Iexploredaylight
+
 * Answer 2: `51.3015, -3.0178`
+
+## Step 4: Radio
+
+
 * Answer 3: `52.1821, 20.9965`
 
 ## Step 4/5:?
+
+Links to google drive, https://drive.google.com/drive/folders/0B2BGioksxQiRc2hpTDJ1SVhPUU0
+
+Corrupted image has hex string, convert to ascii. Also get the info off the corrupted image for the following.
 
 Instructions: `FBMD01000a9c0d0000ec4f000055df0000b5e80000fcfa00005cb2010013ef020069fc02003d110300942b0300b0ce0500`
 
@@ -81,4 +98,9 @@ Numbers are amazing. Follow the count.
 ??
 ```
 
+* Answer 4: `14.2981, 101.2189`
+
+## LAST STEP
+
+????
 
