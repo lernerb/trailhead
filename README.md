@@ -47,3 +47,7 @@ X = 24
 Y = 25
 Z = 26
 ```
+
+## Step 2: Savethedate.foo
+
+1) Type in the coordinates in the js file in this repo `-28.092472, -52.419667`, and you get to a youtube video https://www.youtube.com/watch?v=9N9K898TtWQ&feature=youtu.be&yt:cc=off. Turn on closed captions.
