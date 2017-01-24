@@ -15,6 +15,6 @@ You must know where you've been to get where you're going.
 
 ## Step 1: Intro
 
-![Image of Tweet](http://imgur.com/sIoqXT8)
+![Decoded Image](http://i.imgur.com/sUoA702.png)
 
 By converting a = 1 .. z = 26, you get the message `savethedate.foo`.
