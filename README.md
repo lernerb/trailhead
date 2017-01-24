@@ -102,7 +102,7 @@ A simple ASCII -> Text conversion gives you the next answer:
 
 Links to google drive, https://drive.google.com/drive/folders/0B2BGioksxQiRc2hpTDJ1SVhPUU0
 
-Corrupted image has hex string, convert to ascii. Also get the info off the corrupted image for the following.
+Corrupted image is actually a hex string, convert to ascii. Also get the info off the corrupted image for the following.
 
 Instructions: `FBMD01000a9c0d0000ec4f000055df0000b5e80000fcfa00005cb2010013ef020069fc02003d110300942b0300b0ce0500`
 
@@ -127,12 +127,49 @@ Numbers are amazing. Follow the count.
 ??
 ```
 
+Per https://react-hn.appspot.com/#/comment/13475992
+
+```
+Start from top-left, move the number of spaces given by the number of your current square:
+
+down right left down right right up down down right down
+
+It's a maze; worked backwards from the numbers that have commas and points next to them.
+```
+
 * Answer 4: `14.2981, 101.2189`
 
 ## Step 5
 
-V2hlcmUgaGF2ZSB5b3UgYmVlbj8 => Where have you been?
-
+Link points to: 
 https://photos.google.com/share/AF1QipMNGiEkdfeZKK5uus5iOmt-Gv70lGgSXrnb0sKABhbYuGvovrtNFOy9NAemx0704Q/photo/AF1QipPUgDxGGFcGyd6z-UaSOvqM6JHccuyebfXskvVD?key=WEE2RnpsSkpQRHRscjVxVlhFY1ZRbmRCQnZSQ05B
+
+
+The name of the file is base64.png, and the post tags `V2hlcmUgaGF2ZSB5b3UgYmVlbj8` => Where have you been?
+
+The board shows the following pieces.
+
+R1  | R2| R3|   R4|  R5|  R6| R7| R8|
+--- |---|---|  ---|--- |--- |---|---|
++10 | X |+8 | -12 | X  | -7 | X | X |
++15 | -6|-2 | -11 |+19 | +4 |+1 | X |
++3  | -7|+3 |  X  |+4  | +1 | X | X |
+-19 | +5| X |  +7 | X  | +7 | X |+5 |
+
+The list of places we have been are:
+
+* Brazil
+* England
+* Poland
+* Thailand
+
+Filling in the spots and adding/subtracting the character (ex B+10 = L), you get the following message:
+
+R1  | R2| R3|   R4|  R5|  R6| R7| R8|
+--- |---|---|  ---|--- |--- |---|---|
+L   | X |I  | N   | X  | E  | X | X |
+T   | H |E  | A   | T  | R  |E  | X |
+S   | H |O  |  X  |R   | E  | X | X |
+A   | M | X | P   | X  | H  | X |I  |
 
 Answer: `Shoreline Amphitheatre`
