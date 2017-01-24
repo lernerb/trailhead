@@ -10,8 +10,11 @@ Enter all answers at savethedate.foo.
 You must know where you've been to get where you're going.
 
 
------ NOTES -----
+# ----- NOTES -----
 
-Intro: Find the website!
-http://imgur.com/sIoqXT8
-savethedate.foo
+
+## Step 1: Intro
+
+![Image of Tweet](http://imgur.com/sIoqXT8)
+
+By converting a = 1 .. z = 26, you get the message `savethedate.foo`.
