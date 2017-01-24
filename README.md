@@ -52,5 +52,6 @@ Z = 26
 
 1) Type in the coordinates in the js file in this repo `-28.092472, -52.419667`, and you get to a youtube video https://www.youtube.com/watch?v=9N9K898TtWQ&feature=youtu.be&yt:cc=off. Turn on closed captions.
 
-Answer 1: `-28.092472, -52.419667`
-Answer 2: `51.3015, -3.0178`
+* Answer 1: `-28.092472, -52.419667`
+* Answer 2: `51.3015, -3.0178`
+* Answer 3: `52.1821, 20.9965`
