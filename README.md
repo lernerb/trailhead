@@ -105,3 +105,5 @@ Numbers are amazing. Follow the count.
 V2hlcmUgaGF2ZSB5b3UgYmVlbj8 => Where have you been?
 
 https://photos.google.com/share/AF1QipMNGiEkdfeZKK5uus5iOmt-Gv70lGgSXrnb0sKABhbYuGvovrtNFOy9NAemx0704Q/photo/AF1QipPUgDxGGFcGyd6z-UaSOvqM6JHccuyebfXskvVD?key=WEE2RnpsSkpQRHRscjVxVlhFY1ZRbmRCQnZSQ05B
+
+Answer: `Shoreline Amphitheatre`
