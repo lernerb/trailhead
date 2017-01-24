@@ -167,9 +167,15 @@ Filling in the spots and adding/subtracting the character (ex B+10 = L), you get
 
 R1  | R2| R3|   R4|  R5|  R6| R7| R8|
 --- |---|---|  ---|--- |--- |---|---|
-L   | X |I  | N   | X  | E  | X | X |
-T   | H |E  | A   | T  | R  |E  | X |
-S   | H |O  |  X  |R   | E  | X | X |
-A   | M | X | P   | X  | H  | X |I  |
+L   | # |I  | N   | #  | E  | # | # |
+T   | H |E  | A   | T  | R  |E  | # |
+S   | H |O  |  #  |R   | E  | # | # |
+A   | M | # | P   | #  | H  | # |I  |
 
 Answer: `Shoreline Amphitheatre`
+
+## Fin
+
+We then get redirected to a page with the following image!
+
+![I/O Dates](http://i.imgur.com/60lmtFD.png)
