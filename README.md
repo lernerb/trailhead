@@ -179,3 +179,7 @@ Answer: `Shoreline Amphitheatre`
 We then get redirected to a page with the following image!
 
 ![I/O Dates](http://i.imgur.com/60lmtFD.png)
+
+GIF version:
+
+![I/O Dates](http://g.recordit.co/BfQUDKOhaP.gif)
