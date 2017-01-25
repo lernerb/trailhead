@@ -13,7 +13,7 @@ You must know where you've been to get where you're going.
 # ----- NOTES -----
 
 
-## Step 1: Intro
+## Step 1
 
 ![Decoded Image](http://i.imgur.com/sUoA702.png)
 
@@ -48,13 +48,13 @@ Y = 25
 Z = 26
 ```
 
-## Step 2: Savethedate.foo
+## Step 2
 
 1) Type in the coordinates in the js file in this repo `-28.092472, -52.419667`, and you get to a youtube video https://www.youtube.com/watch?v=9N9K898TtWQ&feature=youtu.be&yt:cc=off. Turn on closed captions.
 
 * Answer 1: `-28.092472, -52.419667`
 
-## Step 3: Youtube
+## Step 3
 
 Visit this, google originally turned off closed captions.
 
@@ -86,7 +86,7 @@ daylight = 8
 
 * Answer 2: `51.3015, -3.0178`
 
-## Step 4: Radio
+## Step 4
 
 Visit this site from the next location marker: https://docs.google.com/presentation/d/11uA9a5wgoY9w9vOyx3C76YewbypmNKgnpy7TbOIv9Wc/pub?start=false&loop=false&delayms=3000&slide=id.p
 
@@ -98,7 +98,7 @@ A simple ASCII -> Text conversion gives you the next answer:
 
 * Answer 3: `52.1821, 20.9965`
 
-## Step 4:
+## Step 5
 
 Links to google drive, https://drive.google.com/drive/folders/0B2BGioksxQiRc2hpTDJ1SVhPUU0
 
@@ -139,7 +139,7 @@ It's a maze; worked backwards from the numbers that have commas and points next 
 
 * Answer 4: `14.2981, 101.2189`
 
-## Step 5
+## Step 6
 
 Link points to: 
 https://photos.google.com/share/AF1QipMNGiEkdfeZKK5uus5iOmt-Gv70lGgSXrnb0sKABhbYuGvovrtNFOy9NAemx0704Q/photo/AF1QipPUgDxGGFcGyd6z-UaSOvqM6JHccuyebfXskvVD?key=WEE2RnpsSkpQRHRscjVxVlhFY1ZRbmRCQnZSQ05B
